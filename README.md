@@ -1,3 +1,9 @@
+# Python Programs for Module 8: Lab Activity
+
+This repository contains Python programs developed as part of Module 8 Lab Activity. Each program is designed to solve specific problems and demonstrate the use of various Python features and modules. Below are the details of each program, including their purpose, implementation, and example outputs.
+
+---
+
 # Python Problem Set
 
 This repository contains solutions to five basic Python programming problems. Each problem is designed to practice different programming concepts such as conditionals, loops, functions, and object-oriented programming.
